@@ -3,6 +3,8 @@
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
+I am going to have to come back to this assignment. Life happened this week and I was unable to complete it the way I wanted and I apologize.
+
 ## Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
